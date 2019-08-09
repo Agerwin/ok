@@ -5,7 +5,7 @@ var app = new Vue({
     姓名: '袁格文',
     号码: '15992613745',
     邮箱: '492383632@qq.com',
-    个人网页: 'https://agerwin.github.io/me/',
+    个人网页: 'https://agerwin.github.io/ok/',
     地址: '广东省珠海市',
     职业: '一个会前端的企划经理',
     头像地址: 'images/me.jpeg',
@@ -13,19 +13,19 @@ var app = new Vue({
     联系方式: [
       {
         类型: '微博',
-        地址: 'https://agerwin.github.io/me/'
+        地址: 'https://agerwin.github.io/ok/'
       },
       {
         类型: 'qq',
-        地址: 'https://agerwin.github.io/me/'
+        地址: 'https://agerwin.github.io/ok/'
       },
       {
         类型: 'git',
-        地址: 'https://agerwin.github.io/me/'
+        地址: 'https://agerwin.github.io/ok/'
       },
       {
         类型: 'instagram',
-        地址: 'https://agerwin.github.io/me/'
+        地址: 'https://agerwin.github.io/ok/'
       }
     ],
     关于我标题: '您好~',
