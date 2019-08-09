@@ -117,7 +117,7 @@ var app = new Vue({
       },
       {
         名称: 'premiere后期剪辑',
-        进度: 100
+        进度: 90
       },
       {
         名称: 'html+css+js',
